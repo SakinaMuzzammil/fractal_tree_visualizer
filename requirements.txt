@@ -1,0 +1,10 @@
+# Fractal Tree Generator Requirements
+# No external dependencies required - uses Python standard library
+
+# For development and testing (optional):
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0
+
+# For image export (optional):
+# Pillow>=8.0.0
